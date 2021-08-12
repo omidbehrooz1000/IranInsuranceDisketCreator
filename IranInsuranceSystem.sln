@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IranInsurance", "IranInsurance\IranInsurance.csproj", "{FB6AF51C-414F-4A88-966B-BC94A9EAB374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IranInsuranceHelper", "IranInsuranceHelper\IranInsuranceHelper.csproj", "{CE83A14A-E557-461A-B2A6-0529CB79D414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6AF51C-414F-4A88-966B-BC94A9EAB374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6AF51C-414F-4A88-966B-BC94A9EAB374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6AF51C-414F-4A88-966B-BC94A9EAB374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6AF51C-414F-4A88-966B-BC94A9EAB374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE83A14A-E557-461A-B2A6-0529CB79D414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE83A14A-E557-461A-B2A6-0529CB79D414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE83A14A-E557-461A-B2A6-0529CB79D414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE83A14A-E557-461A-B2A6-0529CB79D414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52443365-4ED9-45EF-9F6C-B597326FC0C5}
+	EndGlobalSection
+EndGlobal
